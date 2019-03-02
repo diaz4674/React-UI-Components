@@ -1,0 +1,15 @@
+.display {
+    display: flex;
+    justify-content: flex-end;
+    width: 348px;
+    height: 100px;
+    background-color: black;
+    color: white;
+}
+
+h2 {
+    display: flex;
+    align-items: center;
+    font-size: 45px;
+    padding: 0 15px;
+}

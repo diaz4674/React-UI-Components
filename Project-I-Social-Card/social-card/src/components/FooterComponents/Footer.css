@@ -1,0 +1,17 @@
+.icons {
+    display: flex;
+    justify-content: space-around;
+    width: 309px;
+    padding: 30px 172px 8px 0px;
+    margin: 0 auto;
+
+}
+
+i {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
